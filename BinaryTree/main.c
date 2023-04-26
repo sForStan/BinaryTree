@@ -23,7 +23,6 @@ void CreateBiTree(BiTNode **T)
     if (ch == -1)
     {
         *T = NULL;
-        return;
     }
     else
     {
